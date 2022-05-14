@@ -1,0 +1,7 @@
+.tour{
+        display: grid;
+    grid-template-columns: auto auto ;
+    text-align: center;
+    background-image: linear-gradient(rgb(208, 91, 208),rgb(100, 100, 232));
+    padding-bottom: 5%;
+}
